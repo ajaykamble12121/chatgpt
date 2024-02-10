@@ -1,4 +1,4 @@
-const apiKey = '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';
+const apiKey = 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;
 const chatHistory = document.getElementById('chat-history');
 const userInput = document.getElementById('user-input');
 
